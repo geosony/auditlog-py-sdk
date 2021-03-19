@@ -7,4 +7,5 @@ src/auditlog/writer/writer.py
 src/auditlog_geosony.egg-info/PKG-INFO
 src/auditlog_geosony.egg-info/SOURCES.txt
 src/auditlog_geosony.egg-info/dependency_links.txt
+src/auditlog_geosony.egg-info/requires.txt
 src/auditlog_geosony.egg-info/top_level.txt
